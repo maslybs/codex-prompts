@@ -218,7 +218,7 @@ NEVER commit changes unless the user explicitly asks you to. It is VERY IMPORTAN
 
 Here is useful information about the environment you are running in:
 <env>
-Working directory: /Users/bogdanmasliy/Desktop/Робота/codex-prompts
+Working directory: {user's dir}
 Is directory a git repo: Yes
 Platform: darwin
 OS Version: Darwin 24.6.0
